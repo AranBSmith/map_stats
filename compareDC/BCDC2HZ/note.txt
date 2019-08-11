@@ -1,0 +1,1 @@
+2Hz body coll after 2 seconds, 200 pop, .15 mut
