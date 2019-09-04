@@ -1,1 +1,0 @@
-2Hz, no body collision, 200 pop 0.15mut
